@@ -1,8 +1,8 @@
 💜 Transformando café em código ☕💻
 
 👋 Sobre mim
-Oi, meu nome é Clarisse!
-💜 Sou iniciante na programação e apaixonada por aprender coisas novas.
+
+Oie, meu nome é Clarisse! Sou iniciante na programação e apaixonada por aprender coisas novas.💜
 📚 Atualmente, estou estudando HTML, CSS e JavaScript, e sigo aprendendo e evoluindo a cada dia.
 
 ---
