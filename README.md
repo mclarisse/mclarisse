@@ -15,7 +15,6 @@ Oie, meu nome é Clarisse! Sou iniciante na programação e apaixonada por apren
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
 ---
 
 📫 Contato
@@ -24,3 +23,10 @@ Oie, meu nome é Clarisse! Sou iniciante na programação e apaixonada por apren
 ---
 
 ☕💜 "Sobrevivo de café, curiosidade e Ctrl+Z."
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mclarisse/mclarisse/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mclarisse/mclarisse/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mclarisse/mclarisse/output/github-contribution-grid-snake.svg">
+</picture>
+<br></br>
